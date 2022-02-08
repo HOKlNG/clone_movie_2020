@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clone_movie_2020/static/css/main.37959a10.css",
+    "main.js": "/clone_movie_2020/static/js/main.2939ca46.js",
+    "index.html": "/clone_movie_2020/index.html",
+    "main.37959a10.css.map": "/clone_movie_2020/static/css/main.37959a10.css.map",
+    "main.2939ca46.js.map": "/clone_movie_2020/static/js/main.2939ca46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37959a10.css",
+    "static/js/main.2939ca46.js"
+  ]
+}
